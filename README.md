@@ -1,4 +1,6 @@
-## Hi there 👋
+##  Hey there 👋
+
+
 
 # 💫 About Me:
 I am from Maharashtra, India
@@ -8,7 +10,7 @@ I am from Maharashtra, India
 
 🔭 I'm currently working on CrossChain Hackathon<br>
 👯 I'm looking to collaborate on Web3 projects<br>
-🌱 I'm currently learning Account Abstraction<br>
+🌱 I'm currently learning Account Abstraction and Stealth Addresses <br>
 ⚡ In my free time I play guitar.
 
 </div>
