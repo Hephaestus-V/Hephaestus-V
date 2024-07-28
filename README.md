@@ -8,14 +8,16 @@ I am from Maharashtra, India
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 1;">
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400px" style="margin-left: 20px;" />
+
+
 🔭 I'm currently working on CrossChain Hackathon<br>
 👯 I'm looking to collaborate on Web3 projects<br>
 🌱 I'm currently learning Account Abstraction and Stealth Addresses <br>
 ⚡ In my free time I play guitar.
 
-</div>
-<img alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400px" style="margin-left: 20px;" />
-</div>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hephaestus924) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varad-bardapurkar-702a05228/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Varad491773) 
