@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varad</h1>
+<h1 align="center">Hi 👋, I'm Varad 😎 </h1>
 <h3 align="center">A Web3 & Backend Develper from India exploring Zero Knowledge and DeFi </h3>
 
 
