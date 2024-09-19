@@ -17,7 +17,7 @@ I am from Maharashtra, India
   
 - 🌱 I'm currently learning Account Abstraction and DeFi
   
-- ⚡ In my free time I play guitar.
+- ⚡ In my free time I play guitar and sing.
 
 
 
