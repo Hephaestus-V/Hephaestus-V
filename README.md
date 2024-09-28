@@ -9,7 +9,7 @@
 
 I am from Maharashtra, India
 
-- 🔭 I'm currently working on EthOnline Hackathon 
+- 🔭 I'm currently working on HyperHarvest 
   
 - 👨‍💻 Open to new Opportunities in Web3 & Smart Contract developement
   
