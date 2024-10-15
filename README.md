@@ -15,7 +15,7 @@ I am from Maharashtra, India
   
 - 👯 I'm looking to collaborate on Web3 projects
   
-- 🌱 I'm currently learning Zero Knowledge and DeFi
+- 🌱 I'm currently learning ZK and DeFi
   
 - ⚡ In my free time I play guitar and sing.
 
