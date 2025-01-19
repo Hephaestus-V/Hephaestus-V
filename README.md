@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varad 😎 </h1>
-<h3 align="center">A Web3 & Backend Develper from India exploring Zero Knowledge and DeFi </h3>
+<h3 align="center">A Web3 & Backend Develper from India exploring AI Agents and DeFi </h3>
 
 
 
@@ -7,15 +7,12 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" style="margin-left: 20px;" />
 
-I am from Maharashtra, India
-
-- 🔭 I'm currently working on my own startup "HyperHarvest" 
   
 - 👨‍💻 Open to new Opportunities in Web3 & Smart Contract developement
   
 - 👯 I'm looking to collaborate on Web3 projects
   
-- 🌱 I'm currently learning ZK and DeFi
+- 🌱 I'm currently learning AI Agent frameworks
   
 - ⚡ In my free time I play guitar and sing.
 
