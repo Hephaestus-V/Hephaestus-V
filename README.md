@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Varad 😎 </h1>
-<h3 align="center">A Web3 & Backend Develper exploring AI Agents and DeFi </h3>
+<h3 align="center"> 👨‍💻 A Web3 & Backend Develper exploring AI Agents and DeFi </h3>
 
 
 ## 💫 About Me:
